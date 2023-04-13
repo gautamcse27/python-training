@@ -19,7 +19,7 @@ def init__driver(request):
 class BaseTest:
     pass
 
-#lele comment bhost
+
 class Test_Google(BaseTest):
 
     def test_google_title(self):
